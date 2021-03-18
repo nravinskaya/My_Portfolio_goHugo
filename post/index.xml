@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Natalia Ravinskaya</title>
+    <link>https://nravinskaya.github.io/My_Portfolio_goHugo/post/</link>
+    <description>Recent content in Projects on Natalia Ravinskaya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://nravinskaya.github.io/My_Portfolio_goHugo/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Next word prediction</title>
+      <link>https://nravinskaya.github.io/My_Portfolio_goHugo/post/project-2/</link>
+      <pubDate>Wed, 17 Mar 2021 10:00:00 -0400</pubDate>
+      
+      <guid>https://nravinskaya.github.io/My_Portfolio_goHugo/post/project-2/</guid>
+      <description>My Shiny App suggests one or more words that could continue your phrase, based on the words you typed in English.
+I used the bag of words method: the text is analyzed as a multiset of its words, disregarding grammar and word order but keeping multiplicity. The frequency of occurrence of each word or some combinations of words used as a feature for training a classifier.
+The original dataset contains snippets of text from Twitter, blogs and news.</description>
+    </item>
+    
+    <item>
+      <title>Predicting the correctness of exercise performance</title>
+      <link>https://nravinskaya.github.io/My_Portfolio_goHugo/post/project-1/</link>
+      <pubDate>Wed, 10 Mar 2021 10:00:00 -0400</pubDate>
+      
+      <guid>https://nravinskaya.github.io/My_Portfolio_goHugo/post/project-1/</guid>
+      <description>The goal of this project is to predict how people performed exercises based on data about personal movement that were collected from accelerometers on their bodies.
+I built four models, two for each algorithm random forest and decision tree, using several R packages (caret, randomForest, rpart). Based on the results of the accuracy assessment, the first of the considered models was selected to complete the final test. As a result of applying my machine learning algorithm to the test data, all cases were predicted correctly.</description>
+    </item>
+    
+    <item>
+      <title>Web page created with Leaflet</title>
+      <link>https://nravinskaya.github.io/My_Portfolio_goHugo/post/project-3/</link>
+      <pubDate>Wed, 03 Mar 2021 10:00:00 -0400</pubDate>
+      
+      <guid>https://nravinskaya.github.io/My_Portfolio_goHugo/post/project-3/</guid>
+      <description>Here is an interactive Berlin map with filming locations of some of my favorite films.
+ Each movie has its own color for the circles on the map. Each circle is a specific place in the city, and if you click on it, the name of the place will pop up. All place and movie names are links to wiki articles.  Zoom it!
+Click on everything!
+Berlin is an incredibly interesting city.</description>
+    </item>
+    
+  </channel>
+</rss>
